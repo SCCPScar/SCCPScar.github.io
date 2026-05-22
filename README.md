@@ -1,2 +1,2 @@
-# SCCOScar.github.io
+# SCCPScar.github.io
 Amparo Origens
